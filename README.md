@@ -25,6 +25,6 @@ To compile and run this program, you'll need:
 - A terminal or command-line interface
 - Visual Studio Code (or any text editor of your choice)
 
-To run the code : write the following commands in terminal 
-gcc .\tasks_manager.c
+To run the code : write the following commands in terminal <br>
+gcc .\tasks_manager.c <br>
 .\a
